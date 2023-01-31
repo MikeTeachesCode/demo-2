@@ -2,3 +2,6 @@
 *.txt
 *.csv
 employee.py
+.env
+!/RES
+!/RES/forms.csv
